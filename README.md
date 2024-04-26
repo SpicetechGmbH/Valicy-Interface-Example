@@ -119,3 +119,5 @@ for run in job.get_runs(number=2000): # 1.
     run.send(output) # 4.
 ```
 
+### Find the REST-API documentation here:
+https://api.valicy.de/docs
